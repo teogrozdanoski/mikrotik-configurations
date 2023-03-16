@@ -9,7 +9,7 @@
 # wlan1, wlan2 SSID = mtwifi
 # wlan1, wlan2 security profile = dynamic keys, wpa2psk , key = wifipass
 # dns servers = 81.17.233.5, 81.17.225.5
-# ip Services = ssh-2219, winbox-8291 , available via 81.17.232.22
+# ip services = ssh-2219, winbox-8291 , available via 81.17.232.22
 # router os version = routeros 7.7
 
 # start of config
